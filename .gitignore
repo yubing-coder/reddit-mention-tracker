@@ -1,0 +1,14 @@
+# Credentials
+config.json
+
+# Output data
+data/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
